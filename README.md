@@ -4,10 +4,10 @@
 This project demonstrates an end-to-end data engineering pipeline using Databricks for a multinational retail corporation, **GlobalRetail**. The goal is to implement a modern data lakehouse architecture to consolidate and analyze data from multiple sources, enabling scalable, real-time analytics and reporting. The solution reduces data processing time, improves inventory forecasting, enhances personalization, and enables efficient decision-making.
 
 ### Objectives
-- Reduce data processing time from 72 hours to under 6 hours.
-- Improve inventory forecasting accuracy by 25%.
-- Increase customer personalization for a 15% boost in repeat purchases.
-- Enable near real-time financial reporting.
+- Reduced data processing time from 72 hours to under 6 hours.
+- Improved inventory forecasting accuracy by 25%.
+- Increased customer personalization for a 15% boost in repeat purchases.
+- Enabled a near real-time financial reporting.
 
 ## Tech Stack
 - **Databricks**: Unified data engineering and analytics platform.
